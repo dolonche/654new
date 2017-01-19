@@ -23,7 +23,7 @@ a[href="http://78.153.135.186/"]:visited {
 }
 
 .background-title {
-	background-image: url(/images/card.jpg);
+	background-image: url(../images/card.jpg);
 	background-position: center;
 	background-size: cover;
 	height: 150px;
